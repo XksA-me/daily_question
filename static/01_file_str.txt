@@ -1,0 +1,3 @@
+Hello Python
+Python is a widely used programming language.
+Python is known for its simplicity and versatility.
